@@ -80,4 +80,8 @@ https://blog.kyomind.tw/python-poetry/
 https://github.com/a7266165/HCC_Survival_Analysis
 https://github.com/a7266165/AD-Sensor-Project
 
+## 入門範例(待補)
+### 鐵達尼號存活分析(待補)
+### MNIST資料集手寫數字 0-9分類(待補)
+
 以上，希望能給大家一些幫助~
