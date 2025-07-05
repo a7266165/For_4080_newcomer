@@ -1,5 +1,8 @@
 # Anaconda 安裝指南
+
+本指南將引導您在 Windows 系統上安裝 Anaconda、建立虛擬環境，以及整合 VS Code 進行 Python 開發  
 by 徐維鴻、莊淯任
+
 ## 下載與安裝步驟
 
 ### 1. 下載 Anaconda

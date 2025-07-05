@@ -1,7 +1,8 @@
 # Git 與 GitHub 設定指南
 
-本指南將引導您完成 GitHub 帳號創建、Git 安裝，以及 VS Code 與 GitHub 的整合設定。
+本指南將引導您完成 GitHub 帳號創建、Git 安裝，以及 VS Code 與 GitHub 的整合設定  
 by 黃彥銘、莊淯任
+
 ## 目錄
 
 - [創建 GitHub 帳號](#創建-github-帳號)
