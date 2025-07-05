@@ -65,6 +65,7 @@ https://www.anaconda.com/download
 在我過往經驗，使用pip安裝函式庫，很常發生可以正常安裝函式庫，但執行時卻回報錯誤。
 而poetry能協助你管理一個環境裡的函式庫之間的版本依賴關係。
 如果A函式庫需要<=3.0.0的numpy，B函式庫需要>=4.0.0的numpy，那poetry就會告訴你這個問題並不安裝它。
+https://blog.kyomind.tw/python-poetry/
 
 ### git
 在多人合作的repo中，
