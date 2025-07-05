@@ -82,7 +82,7 @@ conda
 ## 實用工具
 
 ###  [VS Code](https://code.visualstudio.com/)
-我自己習慣使用的編譯器是VScode，這部份大家選自己喜歡的就好
+我自己習慣使用的IDE是VScode，這部份大家選自己喜歡的就好
 
 ###  [Anaconda/mini-conda](./conda/README.md)
 當一台電腦有多人使用，或者一個人同時管理多個project/repo，每個人使用的函式庫就很容易互相衝突。比方說A用的機器學習函式庫是torch/cpu/python3.8，B用的是torch/GPU-cuda124/python3.11，C用的是tensorflow/GPU-cuda116/python3.9，這些python版本/函式庫之間的衝突會讓這三個人完全做不了事。
@@ -128,6 +128,7 @@ _即將推出..._
 ## 誌謝
 
 感謝以下同學貢獻（按姓氏筆劃排序）：
+- 林宥辰
 - 徐維鴻
 - 黃彥銘
 
