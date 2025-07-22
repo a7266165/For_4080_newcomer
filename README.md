@@ -95,7 +95,7 @@ conda
 
 我自己常用的虛擬環境管理工具是[Anaconda/mini-conda](https://www.anaconda.com/)
 python3.3+版本也有內建的管理工具venv
-**[Anaconda的安裝可以參考](./conda/README.md)**
+**[conda安裝手冊](./conda/README.md)**
 
 ###  套件管理工具
 [Poetry](./poetry/README.md)
